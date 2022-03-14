@@ -41,7 +41,7 @@ Create a new [Anaconda](https://www.anaconda.com/) environment by running the fo
 
 ```bash
 conda env create --force environment.yml
-conda activate htfd
+conda activate hal
 ```
 
 Use `run.py` to run experiments. HAL can be trained on the `iron` task with the code below.
